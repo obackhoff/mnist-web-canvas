@@ -11,9 +11,10 @@ To run, make sure you have all the dependencies for python: pickle, numpy, json,
 To run it: ```node mnist.js``` and access it in http://localhost:8080
 
 Screeshots:
-<img src="https://github.com/obackhoff/mnist-web-canvas/raw/master/screen1.png" width=150)
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
-![Screenshot](https://github.com/obackhoff/mnist-web-canvas/raw/master/screen2.png =150x150)
-![Screenshot](https://github.com/obackhoff/mnist-web-canvas/raw/master/screen3.png =150x150)
+
+<a href="url"><img src="https://github.com/obackhoff/mnist-web-canvas/raw/master/screen1.png" align="left" height="48" width="100" ></a>
+<a href="url"><img src="https://github.com/obackhoff/mnist-web-canvas/raw/master/screen2.png" align="left" height="48" width="100" ></a>
+<a href="url"><img src="https://github.com/obackhoff/mnist-web-canvas/raw/master/screen3.png" align="left" height="48" width="100" ></a>
+
 
 
