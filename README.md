@@ -8,4 +8,4 @@ There is a simple node service which displays the canvas to draw and provides it
 To run, make sure you have all the dependencies for python: pickle, numpy, json, optparse. The dependencies for Nodejs are in the package.json, simply run:
 ```npm install```
 
-To execute: ```node mnist.js``` and acces it in http://localhost:8080
+To run it: ```node mnist.js``` and access it in http://localhost:8080
