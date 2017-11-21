@@ -28,7 +28,7 @@ function draw(){
     // img.updatePixels()
     img.resize(28, 28)
     let scaled_pixels = pixels2BW_arr(img.pixels, norm=true)
-    httpGet("http://localhost:8080/predict?img=" + scaled_pixels.toString(), 'text', false, (data) => prediction = data)
+    httpGet("/predict?img=" + scaled_pixels.toString(), 'text', false, (data) => prediction = data)
     let p = prediction.split(" ").slice(0, 10)
     res = findBest2(p)
   }
